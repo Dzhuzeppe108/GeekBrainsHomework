@@ -130,4 +130,4 @@ int tenthQuest(int N)
     return 0;
 }
 
-#endif // HOMEWORK1_H //
+#endif // HOMEWORK1_H
