@@ -13,7 +13,7 @@ int main(int argc, const char** argv)
     puts("");
     years(1);
     puts("");
-    //chess(1, 1, 1, 1); НЕ РАБОТАЕТ
+    // chess(1, 1, 1, 1); НЕ РАБОТАЕТ //
     puts("");
     tenthQuest(1);
 
